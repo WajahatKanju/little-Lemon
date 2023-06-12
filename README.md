@@ -1,6 +1,17 @@
 # LITTLE LEMON
 
+<p align="center">
+  <a href="https://github.com/WajahatKanju/little-Lemon"><img src="https://img.shields.io/github/stars/WajahatKanju/little-Lemon?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/WajahatKanju/little-Lemon/issues"><img src="https://img.shields.io/github/issues/WajahatKanju/little-Lemon" alt="GitHub Issues"></a>
+  <a href="https://github.com/WajahatKanju/little-Lemon/blob/main/LICENSE"><img src="https://img.shields.io/github/license/WajahatKanju/little-Lemon" alt="License"></a>
+  <a href="https://github.com/WajahatKanju/little-Lemon/actions"><img src="https://github.com/WajahatKanju/little-Lemon/workflows/Tests/badge.svg" alt="Tests Status"></a>
+</p>
+
 LITTLE LEMON is a Django-based restaurant app designed for use in a Coursera project. With LITTLE LEMON, users can browse the menu, place orders and make reservations, manage their accounts and profiles, and leave reviews and ratings for dishes.
+
+This app is built using the Django web framework and Python programming language. It also uses the Djoser library for user authentication and management.
+
+The source code for this app is available on GitHub at https://github.com/WajahatKanju/little-Lemon.
 
 ## Features
 
@@ -14,7 +25,7 @@ Users can place orders for pickup or delivery directly through the app. The orde
 
 ### User Accounts and Profiles
 
-LITTLE LEMON allows users to create accounts and manage their profiles. Users can save their contact information, payment methods, and delivery addresses for faster checkout. They can also view their order history and track the status of current orders.
+LITTLE LEMON allows users to create accounts and manage their profiles using the Djoser library. Users can save their contact information, payment methods, and delivery addresses for faster checkout. They can also view their order history and track the status of current orders.
 
 ### Reviews and Ratings
 
